@@ -8,7 +8,7 @@
 
 1. **Clonar el repositorio**
 
-```https://github.com/DanielRomero29/WalkingCSharp1.git```
+```https://github.com/DanielRomero29/WalkingCSharp.git```
 
 2. **Lenguaje de programación utilizado: C# en VSC**
 
